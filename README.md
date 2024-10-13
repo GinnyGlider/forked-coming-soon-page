@@ -16,8 +16,8 @@
 
 ## About The Fork
 
-<p>Before I delve into the world of web development I wanted a temporary and clean 'Coming soon™' page to start out with and that's where 
-I found, <a href="https://github.com/catherineisonline">Catherine's</a> front-end project. <s>I chose theirs</s> (later I realised it was from 
-this <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">FrontendMentor Challenge</a>
-but regardless, I liked the aesthetic of the base appeal “Coming soon™” site page… Other than that I'm just experimenting, so far :)
+<p>Before I delve into the world of web development I wanted a temporary and clean 'Coming soon™' page to start out 
+with and that's where I found, <a href="https://github.com/catherineisonline">Catherine's</a> front-end project. 
+<s>I chose theirs</s> (later I realised it was from this <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">FrontendMentor Challenge</a> but regardless, 
+I liked the aesthetic of the base appeal “Coming soon™” site page… Other than that I'm just experimenting, so far :)
 <br>
