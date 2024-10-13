@@ -16,8 +16,8 @@
 
 ## About The Fork
 
-<p>I'm temporarily borrowing <a href="https://github.com/catherineisonline">Catherine's</a> front-end homework, for my site. 
-Just until I can figure out web development myself :) 
-I chose hers because I like the aesthetic of the "coming soon" site page.
-Edit: Right, I realise it isn't her's but from a <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">challenge</a>. Which I will totally do as well.
+<p>Before I delve into the world of web development I wanted a temporary and clean 'Coming soon™' page to start out with and that's where 
+I found, <a href="https://github.com/catherineisonline">Catherine's</a> front-end project. <s>I chose theirs</s> (later I realised it was from 
+this <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">FrontendMentor Challenge</a>
+but regardless, I liked the aesthetic of the base appeal “Coming soon™” site page… Other than that I'm just experimenting, so far :)
 <br>
